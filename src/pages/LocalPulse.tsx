@@ -118,9 +118,9 @@ export default function LocalPulse() {
           {/* Location Banner */}
           <Card className="mb-8 border-2 border-primary">
             <CardContent className="pt-6">
-              <div className="flex items-center justify-between">
+              <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
                 <div className="flex items-center gap-4">
-                  <MapPin className="h-8 w-8 text-primary" />
+                  <MapPin className="h-8 w-8 text-primary flex-shrink-0" />
                   <div>
                     <h2 className="text-2xl newspaper-title">Your Location</h2>
                     <p className="text-muted-foreground">
@@ -132,7 +132,7 @@ export default function LocalPulse() {
                   size="lg" 
                   onClick={requestLocation}
                   disabled={isLocating}
-                  className="gap-2"
+                  className="gap-2 w-full sm:w-auto"
                 >
                   <Navigation className="h-5 w-5" />
                   {isLocating ? "Detecting..." : "Detect Location"}
